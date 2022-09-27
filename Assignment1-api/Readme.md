@@ -21,3 +21,7 @@ Sensors :
 Controller Board : 
 
               1. Arduino UNO.
+              
+Link to access the Project:
+                 https://www.tinkercad.com/things/lOjxCDiR4hn-copy-of-home-automation-19bec045/editel?tenant=circuits
+               
